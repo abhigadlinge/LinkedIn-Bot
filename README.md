@@ -2,26 +2,14 @@
 This is an web scraping bot that automates the process of job applications on LinkedIn. It searches for jobs relevant to you, answers all questions in application form, customizes your resume based on the collected job information, such as skills required, description, about company, etc. and applies to the job. Can apply 100+ jobs in less than 1 hour. 
 
 
-## 📽️ See it in Action
-[![Auto Job Applier demo video](https://github.com/GodsScion/Auto_job_applier_linkedIn/assets/100998531/429f7753-ebb0-499b-bc5e-5b4ee28c4f69)](https://youtu.be/gMbB1fWZDHw)
-Click on above image to watch the demo or use this link https://youtu.be/gMbB1fWZDHw
-
 
 ## ✨ Content
 - [Introduction](#linkedin-ai-auto-job-applier-)
-- [Demo Video](#%EF%B8%8F-see-it-in-action)
 - [Index](#-content)
 - [Install](#%EF%B8%8F-how-to-install)
 - [Configure](#-how-to-configure)
-- [Contributor Guidelines](#-contributor-guidelines)
 - [Features](#-feature-list)
-- [My letter for YOU ❤️](#%EF%B8%8F-my-heartfelt-letter-to-you-%EF%B8%8F)
-- [Updates](%EF%B8%8F-major-updates-history)
-- [Disclaimer](#-disclaimer)
-- [Terms and Conditions](#%EF%B8%8F-terms-and-conditions)
-- [License](#%EF%B8%8F-license)
-- [Socials](#-socials)
-- [Support and Discussions](#-community-support-and-discussions)
+
 
 <br>
 
@@ -182,7 +170,7 @@ Once your code is tested, your changes will be merged to the `main` branch in ne
     '''
     from pyautogui import alert
 
-  ##> ------ Abhijeet Gadlinge : saivigneshgolla@outlook.com - Bug fix ------
+  ##> ------ Abhijeet Gadlinge : abhigadlinge@gmail.com - Bug fix ------
     return alert(message, title)
   ##<
   ```
@@ -273,7 +261,7 @@ As an independent developer, I pour my heart and soul into creating tools like t
 
 You can connect and reach me out at:
 - LinkedIn  :  https://www.linkedin.com/in/abhijeet-gadlinge-794a711bb/
-- Email     :  saivigneshgolla@outlook.com
+- Email     :  abhigadlinge@gmail.com
 
 <br>
 
@@ -352,9 +340,6 @@ With heartfelt appreciation, <br>
 
 <br>
 
-## 📜 Disclaimer
-
-**This program is for educational purposes only. By downloading, using, copying, replicating, or interacting with this program or its code, you acknowledge and agree to abide by all the Terms, Conditions, Policies, and Licenses mentioned, which are subject to modification without prior notice. The responsibility of staying informed of any changes or updates bears upon yourself. For the latest Terms & Conditions, Licenses, or Policies, please refer to [Auto Job Applier](https://github.com/GodsScion/Auto_job_applier_linkedIn). Additionally, kindly adhere to and comply with LinkedIn's terms of service and policies pertaining to web scraping. Usage is at your own risk. The creators and contributors of this program emphasize that they bear no responsibility or liability for any misuse, damages, or legal consequences resulting from its usage.**
 
 
 ## 🏛️ Terms and Conditions
@@ -374,7 +359,7 @@ Please consider the following:
 
 ## ⚖️ License
 
-Copyright (C) 2025 Abhijeet Gadlinge  <saivigneshgolla@outlook.com>
+Copyright (C) 2025 Abhijeet Gadlinge  <abhigadlinge@gmail.com>
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
@@ -393,22 +378,8 @@ See [AGPLv3 LICENSE](LICENSE) for more info.
 
 ## 🐧 Socials
 - **LinkedIn** : https://www.linkedin.com/in/abhijeet-gadlinge-794a711bb/
-- **Email**    : saivigneshgolla@outlook.com
-- **X/Twitter**: https://x.com/gods_scion
-- **Discord**  : godsscion
+- **Email**    : abhigadlinge@gmail.com
 
-
-## 🙌 Community Support and Discussions
-- **Discord Server** : https://discord.gg/fFp7uUzWCY
-alternate link: https://discord.gg/ykfDjRFB
-- **GitHub**
-    - [All Discussions](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions)
-    - [Announcements](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/announcements)
-    - [General](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/general)
-    - [Feature requests or Ideas](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/feature-requests-or-ideas)
-    - [Polls](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/polls)
-    - [Community Flex](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/community-flex)
-    - [Support Q&A](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/support-q-a)
 
 
 #### ℹ️ Version: 24.12.29.12.30 Stable Preview
