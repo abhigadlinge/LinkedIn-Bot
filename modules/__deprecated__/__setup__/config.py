@@ -44,7 +44,7 @@ use_resume_generator = False       # True or False, Note: True or False are case
 
 # Login Credentials for LinkedIn
 username = "abhigadlinge@gmail.com"  # Enter your username in the quotes
-password = "Pass@6503"      # Enter your password in the quotes
+password = ""      # Enter your password in the quotes
 
 # These Sentences are Searched in LinkedIn
 # Enter your search terms inside '[ ]' with quotes ' "searching title" ' for each search followed by comma ', ' Eg: ["Software Engineer", "Software Developer", "Selenium Developer"]
